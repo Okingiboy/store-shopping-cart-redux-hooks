@@ -19,11 +19,12 @@ Please view deployed application on [Heroku]https://salty-spire-13469.herokuapp.
 
 <img src='client/public/images/screenshot.png'>
 
-<img src='client/public/images/22-state-homwork-demo-01.gif'>
 
-<img src='client/public/images/22-state-homwork-demo-02.gif'>
+![Store Items](./client/public/images/22-state-homwork-demo-01.gif)
 
-<img src='client/public/images/22-state-homwork-demo-03.gif'>
+![Cart Purchase](./client/public/images/22-state-homwork-demo-02.gif)
+
+![More Items](./client/public/images/22-state-homwork-demo-03.gif)
 
 
 
