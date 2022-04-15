@@ -24,14 +24,6 @@ Please view deployed application on [Heroku]https://salty-spire-13469.herokuapp.
 
 ![Goods Available](./client/public/images/22-state-homework-demo-01.gif)
 
-## Screenshot
-
-![Cart Purchase](./client/public/images/22-state-homwork-demo-02.gif)
-
-## Screenshot
-
-![More Items](./client/public/images/22-state-homwork-demo-03.gif)
-
 
 
 ## Tests
