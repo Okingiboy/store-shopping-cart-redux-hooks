@@ -20,6 +20,11 @@ Please view deployed application on [Heroku]https://salty-spire-13469.herokuapp.
 <img src='client/public/images/screenshot.png'>
 
 
+## Screenshot
+
+![Google Book Search Engine](./client/public/images/22-state-homework-demo-01.gif)
+
+
 ![Store Items](./client/public/images/22-state-homwork-demo-01.gif)
 
 ![Cart Purchase](./client/public/images/22-state-homwork-demo-02.gif)
